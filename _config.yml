@@ -1,0 +1,28 @@
+name: Beul
+favicon: null
+layout_spectrum: 0.7351017133332789
+typography_spectrum: 0.7982889364939183
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.16914723929949105
+  lightness: 0.8801224024500698
+  saturation: 0.4603844410739839
+  rhythmicContrast: 0.7659609608817846
+purpose: []
